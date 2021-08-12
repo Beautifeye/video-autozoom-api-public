@@ -22,7 +22,7 @@ Ths API request performs automatic sport events autozoom of the input video. The
 
 ### HTTP Request
 
-`POST  http://ec2-54-154-28-171.eu-west-1.compute.amazonaws.com:9001/api/autozoom/upload`
+`POST  http://ec2-54-154-28-171.eu-west-1.compute.amazonaws.com:9001/api/autozoom/upload/`
 
 
 ### Header
